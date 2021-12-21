@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45719756174",
+    "project_id": "my-notes-cloud-db-da820",
+    "storage_bucket": "my-notes-cloud-db-da820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45719756174:android:279d922974c85fd2ea18df",
+        "android_client_info": {
+          "package_name": "com.example.mynotesclouddb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45719756174-jqavcu4tkm0m6r6h3ps4lj4p7au06i7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhb6tEo0zccQWGotO4z9Gh_jXc-OG5o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45719756174-jqavcu4tkm0m6r6h3ps4lj4p7au06i7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
